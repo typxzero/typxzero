@@ -8,11 +8,11 @@
 | 🟢 Node.js    | Really Good    
 | 🟡 C#  | Fine
 | 🟢 LuaU | Really Good
-| 🔴 Python | Not that good
+| 🟡 Python | Fine
 | 🔴 HTML | Not that good
 | 🔴 C++ | Really hard for me
 | 🟡 XAML | Fine
-| 🔴 Java | Not that good
+| 🟡 Java | Fine
 
 ## My Goal
 🎯 My goal is to really just learn most popular programming languages
@@ -21,7 +21,7 @@
 
 >👨‍💻 Code-Ware - Creator
 
->👁 Sensical-Ware - Developer
+>👁 Sensical-Ware - Developer (Discontinued)
 
 >🦅 Eagles - Creator (Discontinued)
 
