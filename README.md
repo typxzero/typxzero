@@ -21,7 +21,7 @@
 
 >👨‍💻 Code-Ware - Creator
 
->👁 Sensical-Ware - Developer (Discontinued)
+>👁 Sensical-Ware (Roblox Util) - Co-Owner
 
 >🦅 Eagles - Creator (Discontinued)
 
