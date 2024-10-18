@@ -28,3 +28,5 @@
 >🗑 Void - Creator (Part of Code-Ware)
 
 >🚽 Skibidi Tools - Creator (Part of Code-Ware)
+
+>🚫 Typx Anti-Cheat - Creator (A Roblox anti-cheat given to a select group of people)
