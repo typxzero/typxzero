@@ -5,28 +5,22 @@
 
 | Language | Experience 
 | -------- | -------- 
-| 🟢 Node.js    | Really Good    
-| 🟡 C#  | Fine
-| 🟢 LuaU | Really Good
+| 🟢 Node.js    | Great    
+| 🟢 C#  | Great
+| 🟢 LuaU | Great
 | 🟡 Python | Fine
 | 🔴 HTML | Not that good
-| 🔴 C++ | Really hard for me
+| 🔴 C++ | Horrible
 | 🟡 XAML | Fine
 | 🟡 Java | Fine
 
-## My Goal
-🎯 My goal is to really just learn most popular programming languages
-
 ## Projects
 
+>🔒 HiddenBytes - Owner
+A paid .NET Obfuscator that is consistently updating. https://discord.gg/AEMUuF7yr6
+
 >👨‍💻 Code-Ware - Creator
+Free tools, free tool commissions. (using suggestions)
 
->👁 Sensical-Ware (Roblox Util) - Co-Owner
-
->🦅 Eagles - Creator (Discontinued)
-
->🗑 Void - Creator (Part of Code-Ware)
-
->🚽 Skibidi Tools - Creator (Part of Code-Ware)
-
->🚫 Typx Anti-Cheat - Creator (A Roblox anti-cheat given to a select group of people)
+>👁 Sensical-Ware (Roblox Utility) - Co-Owner
+A Roblox executor with two branches for both Server-Side and Client-Side execution.
